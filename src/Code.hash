@@ -1,0 +1,11 @@
+//You can use the "select:" command to select a specific file to modify.
+select: File.txt
+
+//You can use the "write:" command to write inside the selected file
+write: Hello world
+
+//You can use the "print:" command to print text in the terminal.
+print: Hello world
+
+//You can use the "mkFile:" command to create a new file.
+mkFile: HelloWorld.txt
